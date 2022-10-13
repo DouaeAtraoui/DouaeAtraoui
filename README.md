@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm ATRAOUI Douae</h1>
                                             
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-<p align="center">   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Nice+To+Meet+You+...; Welcome+To+My+GitHub+Profile...&center=true"></a>
-
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Nice+To+Meet+You+...;Welcome+To+My+GitHub+Profile...&center=true"></a>
 </p>
 
 <h3><b>💣 About Me: </b></h3>
