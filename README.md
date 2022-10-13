@@ -15,8 +15,7 @@
   - 💻 Passionate about Web Developement.
   
   - 📫 How to reach me: 
-  </br> 
-            🏢 [LinkedIn] (https://www.linkedin.com/in/douae-atraoui/)
+                🏢 [LinkedIn] (https://www.linkedin.com/in/douae-atraoui/)
            
 
 <details open="">
