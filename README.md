@@ -16,6 +16,7 @@
   
   - 📫 How to reach me: 
                 🏢 [LinkedIn] (https://www.linkedin.com/in/douae-atraoui/)
+                🔗 [Portfolio] (https://atraouidouae-5f4f3.web.app/)
            
 
 <details open="">
